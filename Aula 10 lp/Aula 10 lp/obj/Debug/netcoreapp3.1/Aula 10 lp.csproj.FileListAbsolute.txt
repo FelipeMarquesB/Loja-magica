@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\Aula 10 lp\Aula 10 lp\bin\Debug\netcoreapp3.1\Aula 10 lp.exe
+C:\Users\USER\Desktop\Aula 10 lp\Aula 10 lp\bin\Debug\netcoreapp3.1\Aula 10 lp.deps.json
+C:\Users\USER\Desktop\Aula 10 lp\Aula 10 lp\bin\Debug\netcoreapp3.1\Aula 10 lp.runtimeconfig.json
+C:\Users\USER\Desktop\Aula 10 lp\Aula 10 lp\bin\Debug\netcoreapp3.1\Aula 10 lp.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Aula 10 lp\Aula 10 lp\bin\Debug\netcoreapp3.1\Aula 10 lp.dll
+C:\Users\USER\Desktop\Aula 10 lp\Aula 10 lp\bin\Debug\netcoreapp3.1\Aula 10 lp.pdb
+C:\Users\USER\Desktop\Aula 10 lp\Aula 10 lp\obj\Debug\netcoreapp3.1\Aula 10 lp.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Aula 10 lp\Aula 10 lp\obj\Debug\netcoreapp3.1\Aula 10 lp.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Aula 10 lp\Aula 10 lp\obj\Debug\netcoreapp3.1\Aula 10 lp.AssemblyInfo.cs
+C:\Users\USER\Desktop\Aula 10 lp\Aula 10 lp\obj\Debug\netcoreapp3.1\Aula 10 lp.dll
+C:\Users\USER\Desktop\Aula 10 lp\Aula 10 lp\obj\Debug\netcoreapp3.1\Aula 10 lp.pdb

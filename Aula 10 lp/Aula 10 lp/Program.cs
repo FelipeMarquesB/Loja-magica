@@ -18,9 +18,9 @@ namespace Aula10
         {
             _Figuras = new List<Object>();
         
-            _Figuras.Add(new Circulo(raio: 3));
+            _Figuras.Add(new Circulo(raio: 8));
          
-            _Figuras.Add(new Retangulo(altura: 10, largura:20 ) );
+            _Figuras.Add(new Retangulo(altura: 5, largura:12 ) );
 
             foreach (Object p in _Figuras)
             {     

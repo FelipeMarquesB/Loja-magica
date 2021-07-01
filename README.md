@@ -6,4 +6,4 @@ Algumas notas para o professor:
 
 O Arquivo "Loja de itens mágicos 2 (Tambem Urgente)" é o trabalho da aula 8
 
-O Arquivo da aula 7 foi comprensado em zip, outros alunos me informaram que o senhor aceitava a intrega deste jeito. 
+O Arquivo da aula 7 e 17 foram comprensados em zip, outros alunos me informaram que o senhor aceitava a intrega deste jeito. 
